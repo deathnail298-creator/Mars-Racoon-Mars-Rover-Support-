@@ -1,0 +1,269 @@
+Phase 3 — Risk Posture & Failure Doctrine
+
+Program: Mars Raccoon — Mars Rover Support / Sample Tube Retrieval Crawler
+
+Mars Raccoon is a Mars surface logistics asset. That means risk posture cannot be hand-waved, romanticized, or pushed aside with optimism. This document defines:
+
+how risk is viewed
+
+what failure means
+
+which risks are acceptable and which are not
+
+how the program must behave when failure happens
+
+If you are executing Phase 3, this doctrine is binding.
+
+1️⃣ Reality Statement
+
+Mars will kill weak systems.
+It does not care about political optimism, contractor pride, or “we’ll improve it later.”
+
+Mars Raccoon must be built with a clear, disciplined understanding that:
+
+dust intrusion is relentless
+
+thermal cycling destroys systems over time
+
+comms latency prevents rescuing stupidity
+
+mobility is unforgiving
+
+everything that can fail eventually will
+
+This doctrine exists so no one lies to themselves about that.
+
+2️⃣ Risk Philosophy
+
+Risk posture is simple:
+
+We accept risk honestly
+
+We control risk deliberately
+
+We never hide risk
+
+We never pretend risk disappeared because someone smiled in a meeting
+
+Mars Raccoon is not risk-free.
+It doesn’t need to be.
+It needs to be predictable, bounded, and survivable enough to matter.
+
+3️⃣ What Risks Are Acceptable
+
+The program may accept:
+
+engineering uncertainty as long as it is named
+
+performance limits as long as they are explicitly documented
+
+reduced capability that is still mission-useful
+
+controlled subsystem failures that do not compromise retrieved samples
+
+endurance limits that are honestly represented
+
+graceful degradation rather than catastrophic failure
+
+Acceptable risk means:
+
+“We understand the risk, we can explain it, we can live with it, and it doesn’t undermine the core mission.”
+
+4️⃣ What Risks Are NOT Acceptable
+
+The following are non-negotiable no-go risks:
+
+anything that materially endangers retrieved sample tubes
+
+systemic dishonesty or omission about capability
+
+architectural drift into complexity poisoning the system
+
+dependency on “heroics,” luck, or technicians saving it in real time
+
+designs that assume Mars will behave kindly
+
+failure modes that are catastrophic rather than bounded
+
+reliance on miracle software to fix bad hardware or architecture choices
+
+political spin overriding technical truth
+
+If any of the above are present and cannot be removed:
+
+Mars Raccoon must not proceed.
+
+5️⃣ Failure Philosophy
+
+Failure is not shame.
+Failure without discipline is shame.
+
+Phase-3 failure doctrine:
+
+Failure must be allowed to happen in test
+
+Failure must be studied honestly
+
+Failure must be documented without spin
+
+Failure must inform decision making
+
+Failure must not be buried to “protect momentum”
+
+There are only two disgraceful outcomes:
+
+lying about performance
+
+pretending everything is fine
+
+Everything else is legitimate engineering.
+
+6️⃣ Required Failure Behaviors
+
+Mars Raccoon must demonstrate:
+
+Graceful Degradation
+
+When it fails, it should:
+
+fail in predictable patterns
+
+not enter chaotic runaway behavior
+
+not cascade into other subsystems
+
+remain analyzable
+
+Sample Protection Priority
+
+If anything must be sacrificed:
+
+Hardware dies first
+
+Mission ambition dies second
+
+Samples are protected last
+
+The system must never:
+
+crush
+
+eject
+
+expose
+
+contaminate
+retrieved tubes because it failed somewhere else.
+
+Defined End-of-Life Logic
+
+At failure or near-death states, Mars Raccoon must:
+
+behave deterministically
+
+preserve data
+
+preserve tubes
+
+stop trying to be a hero
+
+No “thrashing behavior.”
+No “endless panic mode.”
+No gambling for miracles.
+
+7️⃣ Failure Categories (Must Be Explicitly Characterized)
+
+Phase-3 must explicitly classify failures into:
+
+1️⃣ Benign Failures
+
+Do not threaten mission value
+
+Do not threaten stored tubes
+
+Painful but survivable
+
+2️⃣ Serious but Controllable Failures
+
+Impact capability
+
+Require honest admission
+
+Require constraint framing
+
+Still allow meaningful utility
+
+3️⃣ Mission-Ending Failures
+
+Undermine purpose
+
+Threaten stored samples
+
+Destroy credibility
+
+Demonstrate system is not what it claims to be
+
+Mission-ending failure requires clean termination.
+
+8️⃣ Dishonesty Is a Hard Kill Condition
+
+If any of the following occur:
+
+hiding unsuccessful test runs
+
+cherry-picking only “good demo footage”
+
+redefining success mid-execution
+
+presenting aspiration as data
+
+strategic exaggeration of survivability
+
+suppressing engineers raising real concerns
+
+Then the program is to be considered:
+
+Governance-failed, ethically compromised, and operationally invalid.
+
+Phase-3 must stop.
+Full review is required.
+Trust must be rebuilt before execution resumes.
+
+9️⃣ Authority and Risk Ownership
+
+Risk ownership is not vague.
+
+Program Owner
+
+owns risk consequences
+
+signs risk acceptance consciously
+
+Technical Authority
+
+owns system integrity risk
+
+rejects complexity drift
+
+has veto on architecture compromise
+
+Safety Authority
+
+owns human, mission, and planetary protection risk
+
+has unilateral stop authority
+
+Nobody hand-waves risk.
+Nobody says “it’ll probably be fine.”
+
+🔟 Clean End Rule (Risk Lens)
+
+At the end of Phase-3, risk posture must enable a blunt statement:
+
+“This system is credible and risk-responsible.”
+
+“This system is useful but bounded; risk is manageable with constraints.”
+
+“This system is not credible; risk overwhelms mission value.”
+
+Anything more complicated than that is political fog.
