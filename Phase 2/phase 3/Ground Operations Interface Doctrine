@@ -1,0 +1,176 @@
+Phase 3 — Ground Operations Interface Doctrine
+
+Program: Mars Raccoon — Mars Rover Support / Sample Tube Retrieval Crawler
+
+This doctrine defines how ground teams should interact with Mars Raccoon during real operations so it remains reliable, boring, and low-burden rather than becoming an operational headache.
+
+If you’re planning, scheduling, or commanding Mars Raccoon, this doctrine is binding.
+
+1️⃣ Ground Ops Identity
+
+Mars Raccoon is infrastructure.
+
+Ground teams must treat it as:
+
+a persistent logistics asset
+
+a quiet risk reducer
+
+a predictable, low-drama system
+
+If operators feel like they are “managing a problem child,” governance failed upstream.
+
+2️⃣ Operator Philosophy
+
+Mars Raccoon operations should be:
+
+deliberate
+
+conservative
+
+predictable
+
+low supervision
+
+No frantic micromanagement. No heroism. No “let’s see what happens.”
+
+3️⃣ Commanding Doctrine
+Command Rhythm
+
+Commands are periodic and purposeful, not constant.
+
+Expected posture:
+
+planned tasking
+
+idle periods are normal
+
+no compulsive “proof of life” gymnastics
+
+Command Structure
+
+Commands should:
+
+have a clear mission purpose
+
+be within envelope
+
+end in a stable state
+
+preserve reliability
+
+Invalid commanding mindset:
+
+experimentation for curiosity
+
+show-off commands
+
+gambling commands
+
+4️⃣ Human / Machine Responsibility Boundary
+
+Ground Teams Own:
+
+task timing
+
+operational zones
+
+stop decisions
+
+acceptance of deployment risk
+
+EoL transitions
+
+Mars Raccoon Owns:
+
+conservative execution
+
+predictable behavior
+
+tube protection if carrying
+
+graceful degradation
+
+Neither side should pretend to be something it’s not.
+
+5️⃣ Monitoring Doctrine
+
+Monitoring posture should be:
+
+aware
+
+calm
+
+non-obsessive
+
+Watch for:
+
+expected movement pattern
+
+tube custody integrity
+
+system health credibility
+
+no thrashing/autonomy panic
+
+If monitoring feels stressful → stop, reassess.
+
+6️⃣ Restraint Doctrine
+
+Ground will NOT:
+
+push beyond envelope “to try”
+
+risk tubes for ego
+
+use Raccoon to rescue other programs
+
+turn it into a rover proxy
+
+run PR theater missions
+
+If deployment feels heroic, it’s wrong.
+
+7️⃣ Coordination Doctrine
+
+Mars Raccoon must coexist cleanly with:
+
+rovers
+
+helicopters
+
+other hardware
+
+Principles:
+
+never interfere with primary mission assets
+
+keep coordination simple
+
+remain subordinate in mission priority stack
+
+If coordination burden rises, reduce use.
+
+8️⃣ Ground Ops Success Model
+
+Ground operations are successful when:
+
+teams are calm
+
+workload is low
+
+Raccoon is predictable
+
+risk goes down
+
+logistics uncertainty decreases
+
+nobody resents operating it
+
+If operations are boring → success.
+
+Final Statement
+
+Mars Raccoon’s job is to quietly reduce mission risk, not introduce new operational stress.
+
+Ground Ops success = calm, disciplined, predictable, boring reliability.
