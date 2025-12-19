@@ -1,0 +1,118 @@
+Phase 3 — Failure Post-Mortem Template
+
+Program: Mars Raccoon — Mars Rover Support / Sample Tube Retrieval Crawler
+
+Failure is not a scandal.
+Unexamined failure is.
+
+This template ensures every meaningful failure is captured with discipline, clarity, and honesty.
+
+Post-Mortem Record Header
+
+Failure ID:
+Date:
+Phase-3 Stage:
+Subsystem(s):
+Reported By:
+Reviewed By:
+
+1️⃣ Failure Summary
+
+Plain description. No spin. No drama.
+
+What Happened:
+…
+
+Immediate Outcome:
+…
+
+2️⃣ Classification
+
+☐ Benign Failure
+☐ Serious but Controllable
+☐ Mission-Threatening
+☐ Program-Ending Candidate
+
+Rationale:
+…
+
+3️⃣ Environment & Conditions
+
+Operational Context:
+…
+
+Mars-Relevant Factors Simulated / Considered:
+☐ Dust ☐ Thermal ☐ Terrain ☐ Latency ☐ Mechanical Stress
+
+Notes:
+…
+
+4️⃣ Root Cause Analysis
+
+Likely Root Cause:
+…
+
+Contributing Factors:
+…
+
+Not Root Cause (explicitly eliminated):
+…
+
+No hand-waving. No “mystery failure” unless truly irreducible.
+
+5️⃣ Impact Assessment
+
+Impact on Mission Role:
+…
+
+Impact on Architecture Integrity:
+…
+
+Impact on Tube Security:
+…
+
+6️⃣ Corrective Posture
+
+Possible Fix Exists?
+☐ Yes
+☐ Possibly
+☐ No
+
+Corrective Proposal:
+…
+
+Risk After Fix:
+…
+
+7️⃣ Decision
+
+☐ Continue with Constraints
+☐ Continue After Fix
+☐ Hold for Review
+☐ Phase-3 Kill Candidate
+☐ Hard Stop
+
+Authority Signatures Required:
+
+Program Owner
+
+Technical Authority
+
+Safety Authority (if applicable)
+
+8️⃣ Lessons Captured
+
+What This Failure Taught Us:
+…
+
+How This Strengthens Mars Raccoon:
+…
+
+If no lessons are captured, the post-mortem is invalid.
+
+9️⃣ Evidence Archive
+
+☐ Logs Attached
+☐ Telemetry Attached
+☐ Imagery / Test Footage Attached
+☐ Reproduction Data Attached
