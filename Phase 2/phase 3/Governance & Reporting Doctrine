@@ -1,0 +1,138 @@
+1️⃣ Governance Spine (Who Owns What)
+
+Program Owner
+
+Owns program accountability
+
+Approves continuation or termination
+
+Technical Authority
+
+Owns architecture identity
+
+Blocks complexity drift
+
+Safety Authority
+
+Owns mission risk posture
+
+Has unilateral stop power
+
+Execution Team Leads
+
+Build the thing
+
+Log reality
+
+Do not spin results
+
+No ambiguity. No shared ownership fog.
+
+2️⃣ Required Governance Cadence
+Routine Reporting
+
+Minimum cadence:
+
+Weekly during active development
+
+Per-milestone during gated execution
+
+Reports must include:
+
+current status
+
+failures encountered
+
+deviations logged
+
+risk posture snapshot
+
+next actions
+
+Deviation Reporting
+
+Any meaningful deviation MUST:
+
+be logged
+
+be acknowledged
+
+be reviewable
+
+Silent deviation = governance breach.
+
+Safety Posture Reviews
+
+Conduct at:
+
+Gate transitions
+
+Major failures
+
+Any condition change that alters risk
+
+Safety Authority can:
+
+freeze execution
+
+demand review
+
+halt indefinitely
+
+No political override.
+
+Gate Reviews
+
+At each execution gate:
+
+Formal review
+
+Written decision
+
+Signed approval or hold
+
+Gate passing without documentation is invalid.
+
+3️⃣ Governance Integrity Rules
+
+No optimism masking reality
+
+No redefining terms mid-execution
+
+No “we’ll tidy documents later”
+
+No leadership pretending ignorance
+
+No PR narrative overriding technical truth
+
+Governance exists to protect mission outcomes, not reputations.
+
+4️⃣ Governance Failure Conditions
+
+Governance is considered failed if:
+
+decisions lack documented reasoning
+
+results cannot be reconstructed
+
+deviations are hidden
+
+safety concerns are minimized
+
+success is declared without proof
+
+If governance fails:
+Execution pauses.
+Review is mandatory.
+
+5️⃣ Governance End State
+
+Governance must deliver:
+
+a justified verdict
+
+traceable logic
+
+disciplined decisions
+
+If the program ends and leadership cannot explain why, governance failed.
