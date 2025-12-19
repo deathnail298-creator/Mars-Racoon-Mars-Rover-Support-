@@ -1,0 +1,82 @@
+Phase 3 — Execution Checklist
+
+Program: Mars Raccoon — Mars Rover Support / Sample Tube Retrieval Crawler
+
+This checklist exists so Phase-3 execution cannot quietly drift, forget critical discipline, or claim “we thought that was implied.” If any box cannot be honestly checked, Phase-3 execution is not legitimate.
+
+1️⃣ Preconditions (Before Phase-3 Starts)
+
+☐ Valid Phase-3 Execution License in place
+☐ Program Owner formally named
+☐ Technical Authority formally named
+☐ Safety Authority formally named (unilateral stop power acknowledged)
+☐ Budget secured to reach Phase-3 verdict
+☐ Phase-3 governance accepted as binding
+☐ Traceability / logging structure active
+☐ Kill-switch doctrine understood
+☐ Phase-2 learnings acknowledged (if applicable)
+☐ Architectural identity locked (logistics crawler, not rover-2.0)
+
+2️⃣ Gate 1 — Ground Truth Alignment
+
+☐ Mission role clarity documented
+☐ Mobility envelope acknowledged
+☐ Retrieval baseline confirmed
+☐ Storage vault baseline confirmed
+☐ Planetary protection posture acknowledged
+☐ Environmental assumptions acknowledged
+☐ Team agreement captured in writing
+☐ Technical Authority signs
+
+Gate Verdict:
+☐ Pass ☐ Hold ☐ Redo
+
+3️⃣ Gate 2 — Controlled Engineering Commitment
+
+☐ Real design baseline exists
+☐ Subsystem responsibilities locked
+☐ Key risks explicitly documented
+☐ Deviation logging confirmed active
+☐ Traceability verified
+☐ Technical Authority signs identity preserved
+
+Gate Verdict:
+☐ Pass ☐ Hold ☐ Redo
+
+4️⃣ Gate 3 — Prototype Realization
+
+☐ Physical machine exists
+☐ Subsystems integrated
+☐ Failure behaviors characterized honestly
+☐ Safety posture validated
+☐ Readiness state documented
+☐ Safety Authority confirms acceptability
+
+Gate Verdict:
+☐ Pass ☐ Hold ☐ Redo
+
+5️⃣ Gate 4 — Operational Proving
+
+☐ Retrieval reliability proven (repeatable)
+☐ Storage / protection credible
+☐ Mobility mission-credible
+☐ Survivability meaningful
+☐ Evaluated against Validation & Acceptance Model
+☐ Honest truth available for leadership
+
+Gate Verdict:
+☐ Validated ☐ Constrained-Valid ☐ Fail
+
+6️⃣ Gate 5 — Program Decision
+
+☐ Leadership verdict declared
+☐ Documentation preserved
+☐ Results archived
+☐ Public / program narrative aligned to truth
+
+End State:
+☐ Scale Pursuit ☐ Constrained Utility ☐ Kill Cleanly
+
+If any Gate is faked:
+
+Phase-3 execution is invalid.
