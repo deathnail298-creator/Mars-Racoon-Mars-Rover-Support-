@@ -1,0 +1,16 @@
+### Thermal & Survival Philosophy
+
+This asset is expected to operate for weeks-to-months, not years. It is not a flagship rover and is not engineered to survive every seasonal extreme.
+
+Thermal posture:
+- Survival priority over comfort
+- Minimize powered thermal management
+- Leverage passive insulation and reasonable dormancy tolerance
+- Accept that extreme environments shorten lifespan
+
+Power posture:
+- Low-duty cycle operation
+- Planned long sleep intervals
+- Accepts delayed mission timelines rather than oversized energy systems
+
+This is a “good long while” asset, not a “live forever” asset. Mission value comes from opportunistic persistence, not guaranteed permanence.
