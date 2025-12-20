@@ -1,1 +1,22 @@
 
+### Tube Custody & Handoff Reality
+
+Mars Raccoon is not a full logistics chain. It is a **buffer layer** in the MSR architecture.
+
+It does:
+- retrieve tubes
+- secure them in a protected vault
+- concentrate them into an accessible location
+
+It does NOT:
+- return tubes to orbit
+- perform capsule integration
+- replace SRL role
+- require NASA to redesign MSR
+
+Handoff expectation:
+- tubes are later collected by whatever primary retrieval infrastructure survives
+- this reduces geographic spread and recovery uncertainty
+- it trades “lost forever” risk for “delayed but recoverable”
+
+Mars Raccoon is not ownership of sample logistics. It is insurance and consolidation.
